@@ -21,6 +21,8 @@ Ngày sinh: 27/09/2006
 
 Địa chỉ: Sơn Đồng, Hà Nội, Việt Nam
 
+Số điện thoại: 0981954506
+
 Email: [thuytram279206@gmail.com](mailto:thuytram279206@gmail.com)
 
 # Học vấn
@@ -148,5 +150,7 @@ Tableau | Python | Pandas | Excel | Power BI
 # Liên hệ
 
 Email: [thuytram279206@gmail.com](mailto:thuytram279206@gmail.com)
+
+Số điện thoại: 0981954506
 
 Địa chỉ: Sơn Đồng, Hà Nội, Việt Nam
