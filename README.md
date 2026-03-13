@@ -125,10 +125,10 @@ Tableau | Python | Pandas | Excel | Power BI
 # Mục tiêu nghề nghiệp
 
 **Ngắn hạn**
-Trở thành Data Analyst Intern trong môi trường chuyên nghiệp để phát triển kỹ năng phân tích dữ liệu, trực quan hóa dữ liệu và xây dựng dashboard. Tôi mong muốn áp dụng kiến thức về Excel, SQL, Python và Power BI để giải quyết các bài toán dữ liệu thực tế.
+: Trở thành Data Analyst Intern trong môi trường chuyên nghiệp để phát triển kỹ năng phân tích dữ liệu, trực quan hóa dữ liệu và xây dựng dashboard. Tôi mong muốn áp dụng kiến thức về Excel, SQL, Python và Power BI để giải quyết các bài toán dữ liệu thực tế.
 
 **Dài hạn**
-Trở thành Data Analyst có khả năng khai thác dữ liệu, xây dựng hệ thống báo cáo và hỗ trợ doanh nghiệp đưa ra các quyết định dựa trên dữ liệu.
+: Trở thành Data Analyst có khả năng khai thác dữ liệu, xây dựng hệ thống báo cáo và hỗ trợ doanh nghiệp đưa ra các quyết định dựa trên dữ liệu.
 
 # Sở thích
 
