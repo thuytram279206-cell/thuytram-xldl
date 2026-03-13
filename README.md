@@ -1,156 +1,152 @@
-<h1 align="center">Nguyễn Thị Thùy Trâm</h1>
+# Xin chào! Tôi là Nguyễn Thị Thùy Trâm
 
-<p align="center">
-Data Analyst Intern | Sinh viên ngành Phân tích dữ liệu
-</p>
+# Data Analyst Intern | Data Analysis 
 
-## Giới thiệu
+## Giới thiệu bản thân
 
-Tôi là sinh viên đang theo học ngành Xử lý dữ liệu và Phân tích dữ liệu tại Cao đẳng FPT Polytechnic. Tôi quan tâm đến việc khai thác dữ liệu, phân tích thông tin và xây dựng các hệ thống trực quan hóa dữ liệu nhằm hỗ trợ doanh nghiệp đưa ra quyết định dựa trên dữ liệu.
+Tôi có niềm đam mê với máy tính và công nghệ từ nhỏ. Trong quá trình học THPT, tôi theo học song song chương trình văn hóa và công nghệ thông tin, từ đó hình thành nền tảng về tư duy logic và kỹ năng công nghệ. Hiện tại tôi là sinh viên đang theo học ngành Xử lý dữ liệu và Phân tích dữ liệu tại Cao đẳng FPT Polytechnic. Tôi quan tâm đến việc khai thác dữ liệu, phân tích thông tin và xây dựng các hệ thống trực quan hóa dữ liệu nhằm hỗ trợ doanh nghiệp đưa ra quyết định dựa trên dữ liệu.
 
-Trong quá trình học tập và thực hành, tôi đã sử dụng các công cụ như Excel, SQL, Python và Power BI để làm sạch dữ liệu, phân tích dữ liệu và xây dựng dashboard trực quan.
+Trong quá trình học tập và thực hành, tôi đã sử dụng các công cụ như Excel, SQL, Python, Power BI và Tableau để làm sạch dữ liệu, phân tích dữ liệu và xây dựng dashboard trực quan.
 
-Mục tiêu của tôi là phát triển trở thành Data Analyst chuyên nghiệp có khả năng phân tích dữ liệu và cung cấp những insight có giá trị cho doanh nghiệp.
+Tôi cũng có kiến thức nền tảng về Data Warehouse và mô hình dữ liệu phục vụ cho việc lưu trữ và phân tích dữ liệu.
 
-## Thông tin cá nhân
+Mục tiêu của tôi là trở thành Data Analyst chuyên nghiệp có khả năng khai thác dữ liệu và cung cấp insight có giá trị cho doanh nghiệp.
 
-• Họ và tên: Nguyễn Thị Thùy Trâm
-• Ngày sinh: 27 tháng 09 năm 2006
-• Địa chỉ: Sơn Đồng, Hà Nội, Việt Nam
-• Email: [thuytram279206@gmail.com](mailto:thuytram279206@gmail.com)
 
-## Học vấn
+# Thông tin cá nhân
 
-Cao đẳng FPT Polytechnic
-Ngành Xử lý dữ liệu
-Thời gian 2024 đến 2026
+Họ và tên: Nguyễn Thị Thùy Trâm
 
-Cao đẳng Bách Khoa
-Ngành Ứng dụng phần mềm
-Thời gian 2021 đến 2023
+Ngày sinh: 27/09/2006
 
-## Kỹ năng
-
-Phân tích dữ liệu
-
-• Excel bao gồm Data Cleaning, Pivot Table và Data Analysis
-• SQL bao gồm Query, Join và Aggregation
-• Python sử dụng thư viện Pandas để xử lý và phân tích dữ liệu
-• Exploratory Data Analysis
-
-Trực quan hóa dữ liệu
-
-• Power BI sử dụng Dashboard, DAX và Power Query
-• Excel Charts
-
-Kỹ năng mềm
-
-• Tư duy phân tích
-• Làm việc nhóm
-• Quản lý thời gian
-• Giải quyết vấn đề
-
-## Công cụ và công nghệ
-
-Python | Pandas | SQL | Excel | Power BI | DAX | Power Query
-
-## Dự án phân tích dữ liệu
-
-Phân tích dữ liệu kinh doanh Bia Việt Nam
-
-Mục tiêu dự án
-
-Phân tích dữ liệu bán hàng của một công ty kinh doanh bia nhằm hiểu rõ xu hướng doanh thu, hiệu quả sản phẩm và hiệu suất kinh doanh theo từng khu vực.
-
-Dữ liệu
-
-Dữ liệu bao gồm thông tin về thời gian bán hàng, khu vực bán hàng, thương hiệu sản phẩm, doanh thu, lợi nhuận và kênh phân phối.
-
-Công cụ sử dụng
-
-Power BI
-Excel
-DAX
-
-Quy trình thực hiện
-
-• Làm sạch và chuẩn hóa dữ liệu bằng Excel
-• Xây dựng mô hình dữ liệu trong Power BI
-• Tạo các measure bằng DAX để tính toán doanh thu và lợi nhuận
-• Thiết kế dashboard trực quan hóa dữ liệu
-
-Dashboard
-
-![Dashboard](images/dashboard-sales.png)
-
-Link dự án
-
-https://github.com/thuytram279206-cell/beer-sales-analysis
-
-Kết quả phân tích
-
-• Xác định khu vực có doanh thu cao nhất
-• Phân tích xu hướng doanh thu theo thời gian
-• Xác định thương hiệu mang lại lợi nhuận cao
-• Đánh giá hiệu quả của từng kênh phân phối
-
-Phân tích rác thải nhựa tại các bãi biển Việt Nam
-
-Mục tiêu dự án
-
-Phân tích dữ liệu môi trường nhằm xác định mật độ rác thải nhựa tại các bãi biển Việt Nam và tìm ra các khu vực có mức độ ô nhiễm cao.
-
-Dữ liệu
-
-Dữ liệu bao gồm thông tin về tên bãi biển, khu vực địa lý, số lượng rác thải nhựa, loại rác thải và thời gian khảo sát.
-
-Công cụ sử dụng
-
-Python
-Pandas
-Excel
-Power BI
-
-Quy trình thực hiện
-
-• Thu thập và xử lý dữ liệu môi trường
-• Làm sạch dữ liệu bằng Python và Pandas
-• Phân tích dữ liệu để tìm ra xu hướng ô nhiễm
-• Xây dựng dashboard trực quan hóa dữ liệu môi trường
-
-Dashboard
-
-![Dashboard](images/dashboard-environment.png)
-
-Link dự án
-
-https://github.com/thuytram279206-cell/plastic-waste-analysis
-
-Kết quả phân tích
-
-• Xác định các khu vực có mật độ rác thải cao
-• Phân tích xu hướng ô nhiễm theo thời gian
-• Nhận diện các loại rác thải phổ biến
-• Đưa ra các gợi ý giải pháp giảm thiểu ô nhiễm
-
-## Mục tiêu nghề nghiệp
-
-Ngắn hạn
-
-Trở thành Data Analyst Intern để tích lũy kinh nghiệm thực tế trong phân tích dữ liệu và trực quan hóa dữ liệu.
-
-Dài hạn
-
-Trở thành Data Analyst chuyên nghiệp có khả năng khai thác dữ liệu và hỗ trợ doanh nghiệp đưa ra quyết định dựa trên dữ liệu.
-
-## Sở thích
-
-• Chạy bộ
-• Du lịch
-• Tìm hiểu dữ liệu và công nghệ
-• Tham gia các hoạt động cộng đồng
-
-## Liên hệ
+Địa chỉ: Sơn Đồng, Hà Nội, Việt Nam
 
 Email: [thuytram279206@gmail.com](mailto:thuytram279206@gmail.com)
-Địa chỉ: Hà Nội, Việt Nam
+
+# Học vấn
+
+**Cao đẳng Bách Khoa**
+: Ngành Ứng dụng phần mềm
+2021 – 2023
+
+**Cao đẳng FPT Polytechnic**
+: Ngành Xử lý dữ liệu
+2024 – 2026
+
+# Kỹ năng
+
+### Phân tích dữ liệu
+
+* Excel (Data Cleaning, PivotTable, Data Analysis)
+* SQL (Query, Join, Aggregation)
+* Python (Pandas, Data Processing)
+* Exploratory Data Analysis (EDA)
+
+### Trực quan hóa dữ liệu
+
+* Power BI (Dashboard, Data Modeling, DAX, Power Query)
+* Excel Charts
+* Tableau
+
+### Quản lý dữ liệu
+
+• Data Warehouse cơ bản
+• Thiết kế mô hình dữ liệu
+• Hiểu biết về ETL và xử lý dữ liệu
+
+### Kỹ năng mềm
+
+* Tư duy phân tích
+* Làm việc nhóm
+* Quản lý thời gian
+* Giải quyết vấn đề
+
+# Công cụ và công nghệ
+
+Tableau | Python | Pandas | SQL | Excel | Power BI | DAX | Power Query | Data Warehouse
+
+# Dự án phân tích dữ liệu
+
+## PHÂN TÍCH DỮ LIỆU KINH DOANH HIỆU QUẢ BÁN HÀNG CỦA BIA VIỆT NAM
+
+**Mục tiêu**
+: Phân tích dữ liệu bán hàng của công ty kinh doanh bia nhằm xác định xu hướng doanh thu, hiệu quả sản phẩm và hiệu suất kinh doanh theo khu vực.
+
+**Công cụ sử dụng**
+Power BI | Excel | DAX
+
+**Quy trình thực hiện**
+
+* Làm sạch và chuẩn hóa dữ liệu bằng Excel
+* Xây dựng mô hình dữ liệu trong Power BI
+* Tạo các measure bằng DAX
+* Thiết kế dashboard trực quan hóa dữ liệu
+
+**Kết quả**
+
+* Xác định khu vực có doanh thu cao nhất
+* Phân tích xu hướng doanh thu theo thời gian
+* Xác định sản phẩm mang lại lợi nhuận cao
+* Đánh giá hiệu quả của từng kênh phân phối
+
+🔗 [PHÂN TÍCH DỮ LIỆU KINH DOANH HIỆU QUẢ BÁN HÀNG CỦA BIA VIỆT NAM](https://docs.google.com/spreadsheets/d/1H7FPoKA_tZmVv0iapIVUAtU_LhROEL_XdWQb3POW5ME/edit?gid=0#gid=0)
+
+### Dashboard
+
+![Sales Dashboard](dashboard-sales.png.png)
+
+## PHÂN TÍCH RÁC THẢI NHỰA VÀ MẬT ĐỘ VI NHỰA ẢNH HƯỞNG ĐẾN MÔI TRƯỜNG BIỂN VIỆT NAM
+
+**Mục tiêu**
+Phân tích dữ liệu môi trường nhằm xác định mật độ rác thải nhựa tại các bãi biển Việt Nam.
+
+**Công cụ sử dụng**
+Tableau | Python | Pandas | Excel | Power BI
+
+**Quy trình thực hiện**
+
+* Thu thập và xử lý dữ liệu môi trường
+* Làm sạch dữ liệu bằng Python và Pandas
+* Phân tích dữ liệu để xác định xu hướng ô nhiễm
+* Xây dựng dashboard trực quan hóa dữ liệu
+
+**Kết quả**
+
+* Xác định các khu vực có mật độ rác thải cao
+* Phân tích xu hướng ô nhiễm theo thời gian
+* Nhận diện các loại rác thải phổ biến
+* Đề xuất giải pháp giảm thiểu ô nhiễm
+
+🔗 [PHÂN TÍCH RÁC THẢI NHỰA VÀ MẬT ĐỘ VI NHỰA ẢNH HƯỞNG ĐẾN MÔI TRƯỜNG BIỂN VIỆT NAM](https://drive.google.com/drive/folders/1JUVtkE0aGuzA5RFisnm8qm3Lh2RSM2_B)
+
+### Dashboard
+
+![Sales Dashboard](abc-sales.png.png)
+# Mục tiêu nghề nghiệp
+
+**Ngắn hạn**
+Trở thành Data Analyst Intern trong môi trường chuyên nghiệp để phát triển kỹ năng phân tích dữ liệu, trực quan hóa dữ liệu và xây dựng dashboard. Tôi mong muốn áp dụng kiến thức về Excel, SQL, Python và Power BI để giải quyết các bài toán dữ liệu thực tế.
+
+**Dài hạn**
+Trở thành Data Analyst có khả năng khai thác dữ liệu, xây dựng hệ thống báo cáo và hỗ trợ doanh nghiệp đưa ra các quyết định dựa trên dữ liệu.
+
+# Sở thích
+
+* Nấu ăn
+* Tập gym
+* Chạy bộ
+* Du lịch
+* Tìm hiểu dữ liệu và công nghệ
+* Tham gia các hoạt động cộng đồng
+
+# Hoạt động
+* Chạy Marathon Tam Chúc
+* Hoạt động thiện nguyện tại làng trẻ Hữu Nghị
+* Chạy vưỡng ngưỡng 15km
+* Kinh doanh để ủng hộ xây trường cho trẻ em vùng cao
+
+# Liên hệ
+
+Email: [thuytram279206@gmail.com](mailto:thuytram279206@gmail.com)
+
+Địa chỉ: Sơn Đồng, Hà Nội, Việt Nam
