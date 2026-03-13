@@ -52,9 +52,9 @@ Email: [thuytram279206@gmail.com](mailto:thuytram279206@gmail.com)
 
 ### Quản lý dữ liệu
 
-• Data Warehouse cơ bản
-• Thiết kế mô hình dữ liệu
-• Hiểu biết về ETL và xử lý dữ liệu
+* Data Warehouse cơ bản
+* Thiết kế mô hình dữ liệu
+* Hiểu biết về ETL và xử lý dữ liệu
 
 ### Kỹ năng mềm
 
