@@ -65,7 +65,7 @@ Email: [thuytram279206@gmail.com](mailto:thuytram279206@gmail.com)
 
 # Công cụ và công nghệ
 
-Tableau | Python | Pandas | SQL | Excel | Power BI | DAX | Power Query | Data Warehouse
+Tableau | Python | Pandas | SQL | Excel | Power BI | Power Query | Data Warehouse
 
 # Dự án phân tích dữ liệu
 
