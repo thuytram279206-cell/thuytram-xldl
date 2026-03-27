@@ -40,7 +40,7 @@ Email: [thuytram279206@gmail.com](mailto:thuytram279206@gmail.com)
 ### Phân tích dữ liệu
 
 * Excel (Data Cleaning, PivotTable, Data Analysis)
-* SQL (Query, Join, Aggregation)
+* SQL (Query, Join, GROUP BY, Aggregation)
 * Python (Pandas, Data Processing)
 * Exploratory Data Analysis (EDA)
 
@@ -126,12 +126,7 @@ Tableau | Python | Pandas | Excel | Power BI
 ![Sales Dashboard](abc-sales.png.png)
 # Mục tiêu nghề nghiệp
 
-**Ngắn hạn**
-: Trở thành Data Analyst Intern trong môi trường chuyên nghiệp để phát triển kỹ năng phân tích dữ liệu, trực quan hóa dữ liệu và xây dựng dashboard. Tôi mong muốn áp dụng kiến thức về Excel, SQL, Python và Power BI để giải quyết các bài toán dữ liệu thực tế.
-
-**Dài hạn**
-: Trở thành Data Analyst có khả năng khai thác dữ liệu, xây dựng hệ thống báo cáo và hỗ trợ doanh nghiệp đưa ra các quyết định dựa trên dữ liệu.
-
+Data Analyst Intern với nền tảng vững về Excel, SQL, Power BI, Tableau và Python(Pandas). Có kinh nghiệm thực hiện các dự án phân tích dữ liệu, xây dựng dashboard và làm việc với dữ liệu trong môi trường Data Warehouse. Mong muốn áp dụng kỹ năng phân tích và trực quan hóa dữ liệu để hỗ trợ ra quyết định kinh doanh.
 # Sở thích
 
 * Nấu ăn
